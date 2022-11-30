@@ -8,7 +8,7 @@ Body{
     background: linear-gradient(to right, #00AAFF,#00FF6C);
 }
 h1{
-    margin: 50px;
+    margin: 25px;
     display: flex;
     justify-content: center;
     align-items: center;
